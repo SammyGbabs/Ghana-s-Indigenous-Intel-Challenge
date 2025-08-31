@@ -1,2 +1,1 @@
-# MPEG-G-Microbiome-Classification-Challenge
-This is  Federated Learning Project
+# Ghana’s Indigenous Intel Challenge
